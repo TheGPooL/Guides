@@ -32,7 +32,9 @@ Once your wallet is unlocked, click the “**Stakes**” tab at the bottom of th
 
 <a href="url"><img src="./images/mobile_wallet_main.png" align="center" height="25%" width="25%" ></a>
 
-In the **Guardian Node Holder (Summary)** field of the Theta Wallet app, click the **QR code icon** and use your device to scan the QR code from the GPooL Delegation page.
+In the **Guardian Node Holder (Summary)** field of the Theta Wallet app, click the **QR code icon** and use your device to scan the QR code Below, the same one can be found on the GPooL Delegation page.
+
+<a href="url"><img src="./images/QR.png" align="center" height="33%" width="33%" ></a>
 
 <a href="url"><img src="./images/mobile_wallet_deposit.png" align="center" height="33%" width="33%" ></a>
 
